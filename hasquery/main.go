@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"flag"
+	"fmt"
 	"net/url"
 	"os"
 
@@ -34,7 +35,7 @@ func main() {
 		}
 
 		if params {
-			logrus.Println(scanner.Text())
+			fmt.Println(scanner.Text())
 		}
 	}
 }
