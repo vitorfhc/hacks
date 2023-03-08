@@ -1,0 +1,10 @@
+http://localhost:8080/body_all.php
+http://localhost:8080/body_keys.php
+http://localhost:8080/body_only_xss_value.php?xss=asdasdsada
+http://localhost:8080/body_values.php
+http://localhost:8080/entries.txt
+http://localhost:8080/header_all.php
+http://localhost:8080/header_keys.php
+http://localhost:8080/header_only_xss_value.php?xss=afdfdgdfgdgf
+http://localhost:8080/header_values.php
+http://localhost:8080/no_reflection.php
