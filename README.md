@@ -1,7 +1,5 @@
 # Hacks
 
-<script>alert(document.cookie)</script>
-
 This is a collection of tools that I use while hacking.
 
 # Install
